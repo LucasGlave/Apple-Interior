@@ -1,0 +1,2 @@
+En el inicio poner algun producto en especifico con una frase que lo defina y dos opciones, una para ver ese producto y la otra
+para ver mas productos de ese estilo.
