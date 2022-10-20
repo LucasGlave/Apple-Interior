@@ -1,0 +1,145 @@
+h6{
+    color: rgb(255, 255, 255);
+}
+
+h2{
+    margin: 35px;
+  -webkit-text-stroke: 0.0001em rgb(0, 0, 0);
+  color: transparent;
+  text-transform: uppercase;
+  text-align: center;
+  font-family: "Oswald", sans-serif;
+  font-size: 38px;
+  font-weight: 600;
+}
+
+.container-fluid a{
+    font-size: 30px;
+    font-weight: 100;
+}
+
+footer{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: auto;
+    width: 99.1vw;
+    /* font-family: "Open Sans"; */
+    padding-top: 40px;
+    color: #fff;
+}
+
+.footer-content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.footer-content h3{
+    margin-top: 1rem;
+    font-size: 1.8rem;
+    /* font-weight: 1000; */
+    text-transform: capitalize;
+    line-height: 3rem;
+    text-align: center;
+    justify-content: center;
+}
+
+.socials{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 1rem 1.5rem 3rem 0;
+}
+
+.socials li{
+    margin: 0 10px;
+}
+
+.socials a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.socials a i{
+    font-size: 1.1rem;
+    transition: color .4s ease;
+}
+
+.socials a:hover{
+    color: aqua;
+}
+
+.footer-bottom{
+    background: #000;
+    width: 99.1vw;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.footer-bottom p{
+    font-size: 14px;
+    word-spacing: 2px;
+    text-transform: capitalize;
+}
+
+.footer-bottom span{
+    text-transform: uppercase;
+    opacity: .4;
+    font-weight: 200;
+    color: #fff;
+}
+
+.botones{
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+    padding: 20px;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+}
+
+.card{
+    text-align: center;
+}
+
+.celulares{
+    width: 90%;
+    max-width: 1200px;
+    margin: auto;
+    padding: 40px 80px;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+.macbooks{
+    width: 90%;
+    max-width: 1200px;
+    margin: auto;
+    padding: 40px 80px;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+.iPads{
+    width: 90%;
+    max-width: 1200px;
+    margin: auto;
+    padding: 40px 80px;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+.accesorios{
+    width: 90%;
+    max-width: 1200px;
+    margin: auto;
+    padding: 40px 80px;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}

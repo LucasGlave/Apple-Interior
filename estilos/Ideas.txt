@@ -1,0 +1,4 @@
+En el inicio poner algun producto en especifico con una frase que lo defina y dos opciones, una para ver ese producto y la otra
+para ver mas productos de ese estilo.
+
+https://docs.google.com/document/d/1vNGKBa0ahv3swukh0rNERGYNQWjOELtfpv5rayq8v0c/edit?usp=sharing
